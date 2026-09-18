@@ -42,24 +42,6 @@ web development. Currently focusing on **Laravel, PHP, HTML, CSS, and JavaScript
 
 ---
 
-## 📌 Featured Projects
-
-### 🏫 SIM-SARPRAS
-
-A school facility management system built with Laravel.
-
-**Tech:** Laravel • PHP • MySQL • Blade • Tailwind CSS
-
----
-
-### 🍱 Sistem Katering Nusantara
-
-A catering management system focused on database relationships and
-advanced eager loading.
-
-**Tech:** Laravel • PHP • MySQL • Blade • Tailwind CSS
-
----
 
 ## 🎯 Currently Working On
 
