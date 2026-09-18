@@ -50,25 +50,6 @@ web development. Currently focusing on **Laravel, PHP, HTML, CSS, and JavaScript
 
 </div>
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=salmandadirt&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/salmandadirt/salmandadirt/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
