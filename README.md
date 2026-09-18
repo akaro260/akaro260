@@ -38,17 +38,6 @@ web development. Currently focusing on **Laravel, PHP, HTML, CSS, and JavaScript
 - 🎨 Interested in **Web Design & UI**
 - 📚 Always learning something new
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=salmandadirt&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmandadirt&layout=compact&theme=dark&hide_border=true" height="180"/>
-
-</div>
 
 
 ---
