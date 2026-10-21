@@ -73,9 +73,10 @@ Explore more on my [GitHub repositories](https://github.com/salmandadirt?tab=rep
 
 ---
 
-## 🌐 Contact Me At
 
 <div align="center">
+
+## 🌐 Contact Me At
 
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/991603789893226546)
 
