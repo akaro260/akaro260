@@ -54,7 +54,7 @@ Building projects, exploring new technologies, and turning ideas into code.
 Here are some of the projects I'm building and learning from:
 
 - 🌐 **API Profiling** — A Laravel REST API project for managing profiles and learning-related resources.
-- 🏫 **School Administration System** — A web application concept for managing school administration requests.
+- 💬 **Website BNC** — A community landing page for a Discord server, designed to introduce the community, showcase its features, and welcome new members. The website provides information about the community and makes it easy for visitors to join the Discord server through an invitation link.
 - 📚 **Learning Projects** — Small applications built to practice Laravel, PHP, databases, and frontend development.
 
 Explore more on my [GitHub repositories](https://github.com/salmandadirt?tab=repositories).
