@@ -7,9 +7,8 @@
 Building projects, exploring new technologies, and turning ideas into code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/salmandadirt)
-[![Profile Views](https://komarev.com/ghpvc/?username=salmandadirt&style=for-the-badge&color=blueviolet)](https://github.com/salmandadirt)
 [![Discord](https://img.shields.io/badge/Discord-My_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/991603789893226546)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=salmandadirt&style=for-the-badge&color=blueviolet)](https://github.com/salmandadirt)
 </div>
 
 ---
@@ -74,13 +73,11 @@ Explore more on my [GitHub repositories](https://github.com/salmandadirt?tab=rep
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contact Me At
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-salmandadirt-181717?style=for-the-badge&logo=github)](https://github.com/salmandadirt)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/991603789893226546)
 
 </div>
 
