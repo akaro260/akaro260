@@ -8,6 +8,7 @@ Building projects, exploring new technologies, and turning ideas into code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/salmandadirt)
 [![Profile Views](https://komarev.com/ghpvc/?username=salmandadirt&style=for-the-badge&color=blueviolet)](https://github.com/salmandadirt)
+[![Discord](https://img.shields.io/badge/Discord-My_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/991603789893226546)
 
 </div>
 
